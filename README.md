@@ -39,7 +39,7 @@ Environment variables
 Volumes
 =======
 
-Logs there: `/AMIExclusionServer/logs/`.
+Logs are there: `/AMIExclusionServer/logs/`.
 
 Developers
 ==========
