@@ -31,12 +31,15 @@ This is the official Docker image.
 Environment variables
 =====================
 
-N/A
+* `SERVER_NAME`
+* `MQTT_URL`
+* `MQTT_USERNAME`
+* `MQTT_PASSWORD`
 
 Volumes
 =======
 
-N/A
+Logs there: `/AMIExclusionServer/logs/`.
 
 Developers
 ==========

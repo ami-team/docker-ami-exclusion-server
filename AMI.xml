@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<properties>
+    <property name="server_name"><![CDATA[${ami.server_name}]]></property>
+
+    <property name="mqtt_url"><![CDATA[${ami.mqtt_url}]]></property>
+    <property name="mqtt_username"><![CDATA[${ami.mqtt_username}]]></property>
+    <property name="mqtt_password"><![CDATA[${ami.mqtt_password}]]></property>
+</properties>
