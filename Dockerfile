@@ -18,7 +18,7 @@ ENV MQTT_PASSWORD=""
 
 ########################################################################################################################
 
-RUN ["wget", "-O", "AMIExclusionServer-bundle.zip", "https://ami.in2p3.fr/download/AMIExclusionServer-1.0.0-bundle.zip"]
+RUN ["wget", "-O", "AMIExclusionServer-bundle.zip", "https://repo.ami-ecosystem.in2p3.fr/releases/net/hep/ami/AMIExclusionServer/1.0.0/AMIExclusionServer-1.0.0-bundle.zip"]
 
 RUN ["unzip", "AMIExclusionServer-bundle.zip"]
 
